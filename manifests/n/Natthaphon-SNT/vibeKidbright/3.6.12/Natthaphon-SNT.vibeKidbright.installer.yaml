@@ -20,7 +20,6 @@ Installers:
   AppsAndFeaturesEntries:
   - DisplayName: VibeKidbright IDE
     Publisher: NECTEC Inc.
-    DisplayVersion: 3.6.12
 ManifestType: installer
 ManifestVersion: 1.12.0
 ReleaseDate: 2026-09-09
